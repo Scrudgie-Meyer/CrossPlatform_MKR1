@@ -1,4 +1,4 @@
-﻿namespace CrossPlatfrom_MKR1
+﻿namespace Variant15
 {
     public class FileWriter(string path)
     {

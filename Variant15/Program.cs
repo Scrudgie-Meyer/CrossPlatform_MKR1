@@ -1,10 +1,9 @@
-﻿namespace CrossPlatfrom_MKR1;
-
+﻿namespace Variant15;
 public class Program
 {
     // Define paths for input and output files
-    private static readonly string PathInput = Path.Combine(Path.GetFullPath("Lab1"), "Files", "INPUT.txt");
-    private static readonly string PathOutput = Path.Combine(Path.GetFullPath("Lab1"), "Files", "OUTPUT.txt");
+    private static readonly string PathInput = Path.Combine(Path.GetFullPath("Variant15"), "Files", "INPUT.txt");
+    private static readonly string PathOutput = Path.Combine(Path.GetFullPath("Variant15"), "Files", "OUTPUT.txt");
 
     public static void Main(String[] args)
     {
