@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrossPlatfrom_MKR1.Tests", "CrossPlatfrom_MKR1.Tests", "{9E0671E8-05C7-46C9-B8F9-B8032B48CB6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrossPlatform_MKR1", "CrossPlatform_MKR1", "{04489F6E-29EB-48BE-A70A-ED471CAEC90C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossPlatfrom_MKR1", "CrossPlatfrom_MKR1\CrossPlatfrom_MKR1.csproj", "{5BAEB331-95E7-46FF-802F-6925E20EC8A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BAEB331-95E7-46FF-802F-6925E20EC8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BAEB331-95E7-46FF-802F-6925E20EC8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BAEB331-95E7-46FF-802F-6925E20EC8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BAEB331-95E7-46FF-802F-6925E20EC8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5BAEB331-95E7-46FF-802F-6925E20EC8A7} = {04489F6E-29EB-48BE-A70A-ED471CAEC90C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C519034-A0D3-467A-957B-5FEF94DAF829}
+	EndGlobalSection
+EndGlobal
